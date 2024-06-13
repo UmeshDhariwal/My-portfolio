@@ -7,7 +7,7 @@
 
 ## 🔗 Links
 
-[Live product]([https://umeshdhariwal.github.io/My-portfolio/]) 
+[Live product](https://umeshdhariwal.github.io/My-portfolio/) 
 
 [Code](https://github.com/UmeshDhariwal/My-portfolio) 
 
